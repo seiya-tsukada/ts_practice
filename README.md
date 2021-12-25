@@ -1,5 +1,6 @@
 # npm install & init
 ```
+npm init
 npm install --save-dev typescript ts-node @types/express
 ./node_modules/.bin/tsc --init
 ```
